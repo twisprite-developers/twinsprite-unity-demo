@@ -20,6 +20,6 @@ The [/Assets/Scripts/Main.cs](https://github.com/twisprite-developers/twinsprite
 
 [Twinsprite Unity 3D SDK Reference](http://developers.twinsprite.com/v2/sdk/unity/index.html)
 
-[Twinsprite Unity 3D SDK Binaries](http://developers.twinsprite.com/v2/downloads/unity/TwinspriteSDK.zip)
+[Twinsprite Unity 3D SDK Binaries](http://developers.twinsprite.com/v2/downloads/unity/TwinSpriteSDK.dll)
 
 Support: [dev@twinsprite.com](mailto:dev@twinsprite.com)
